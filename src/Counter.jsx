@@ -15,7 +15,7 @@ function Counter() {
         <button onClick={increment} className="increment">
           +
         </button>
-        <button onClick={decrement} className="decrement">
+        <button onClick={decrement} className="increment">
           -
         </button>
       </section>
