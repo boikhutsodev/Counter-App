@@ -11,7 +11,7 @@ function Counter() {
       <div className="container">
         <h1 className="number">{count}</h1>
       </div>
-      <section className="btns-continer">
+      <section className="btns-container">
         <button onClick={increment} className="increment">
           +
         </button>
